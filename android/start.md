@@ -1,7 +1,7 @@
 ### 集成指南
 
 项目根目录 build.gradle的allprojects的repositories添加子项
-```gradle
+```groovy
 maven {
             // All of React Native (JS, Android binaries) is installed from npm
             url "$rootDir/../node_modules/react-native/android"
@@ -10,12 +10,12 @@ maven {
 
 
 app目录下的build.gradle添加引用
-```gradle
+```groovy
 implementation "com.facebook.react:react-native:0.59.10" // From node_modules
 ```
 
 添加task 自动判断下载文件
-```gradle
+```groovy
 task miniappInit(){
     if(file("$rootDir/../node_modules/versions/0.59.10.md").exists()){
 
