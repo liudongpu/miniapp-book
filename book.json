@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "expandable-chapters",
+        "-lunr", 
+          "-search", 
+          "search-pro"
+    ],
+    "structure.rename":"introduction.md"
+    
+}
