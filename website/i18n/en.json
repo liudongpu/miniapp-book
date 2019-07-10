@@ -30,8 +30,8 @@
       "ios/start": {
         "title": "iOS集成方式"
       },
-      "remark/design": {
-        "title": "remark/design"
+      "note/design": {
+        "title": "设计思想"
       },
       "rn/start": {
         "title": "小应用集成指南"
@@ -46,7 +46,7 @@
     "categories": {
       "开始": "开始",
       "集成指南": "集成指南",
-      "Second Category": "Second Category",
+      "设计相关": "设计相关",
       "First Category": "First Category"
     }
   },

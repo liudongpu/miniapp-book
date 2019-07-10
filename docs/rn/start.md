@@ -5,7 +5,11 @@ title: 小应用集成指南
 
 ## 开始步骤  
 * 安装nodejs环境
-* 执行 `npm install --registry=https://registry.npm.taobao.org` ，更新依赖包
+* 执行
+```shell 
+    npm install --registry=https://registry.npm.taobao.org
+```
+，更新依赖包
 * `npm run local` 初始化本地特殊操作 必须执行
 * `sudo npm run install-cli` 安装命令行辅助程序，可选项。安装完成后执行`icome-cli -h`参考命令行的辅助说明
 * `npm run dev`，启动开发环境

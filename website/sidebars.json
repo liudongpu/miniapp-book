@@ -2,7 +2,7 @@
   "docs": {
     "开始": ["introduction"],
     "集成指南": ["android/start","ios/start","rn/start"],
-    "Second Category": ["doc3"]
+    "设计相关": ["note/design"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
