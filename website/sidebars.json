@@ -1,7 +1,7 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
+    "开始": ["introduction"],
+    "集成指南": ["android/start","ios/start","rn/start"],
     "Second Category": ["doc3"]
   },
   "docs-other": {

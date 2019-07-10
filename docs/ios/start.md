@@ -1,4 +1,9 @@
-### 集成指南
+---
+id: start
+title: iOS集成方式
+---
+
+## 集成指南
 
 项目根目录 podfile 添加子项
 ```ruby

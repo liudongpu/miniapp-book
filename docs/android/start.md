@@ -1,4 +1,9 @@
-### 集成指南
+---
+id: start
+title: Android集成方式
+---
+
+## 集成指南
 
 项目根目录 build.gradle的allprojects的repositories添加子项
 ```groovy
