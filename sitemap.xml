@@ -16,6 +16,7 @@
 <url> <loc>https://facebook.github.io/miniapp-book/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/doc5" /> </url>
 <url> <loc>https://facebook.github.io/miniapp-book/docs/introduction</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/introduction" /> </url>
 <url> <loc>https://facebook.github.io/miniapp-book/docs/ios/start</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/ios/start" /> </url>
+<url> <loc>https://facebook.github.io/miniapp-book/docs/note/bridge</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/note/bridge" /> </url>
 <url> <loc>https://facebook.github.io/miniapp-book/docs/note/design</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/note/design" /> </url>
 <url> <loc>https://facebook.github.io/miniapp-book/docs/rn/start</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://facebook.github.io/miniapp-book/docs/rn/start" /> </url>
 </urlset>
