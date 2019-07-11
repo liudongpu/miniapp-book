@@ -30,6 +30,9 @@
       "ios/start": {
         "title": "iOS集成方式"
       },
+      "note/bridge": {
+        "title": "桥接模型"
+      },
       "note/design": {
         "title": "设计思想"
       },
