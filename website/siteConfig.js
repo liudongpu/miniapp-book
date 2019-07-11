@@ -49,12 +49,12 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/miniapp.png',
-  footerIcon: 'img/favicon.ico',
+  footerIcon: 'img/miniapp.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#99208a',
+    primaryColor: '#0078d4',
     secondaryColor: '#6b1660',
   },
 
