@@ -30,6 +30,12 @@
       "ios/start": {
         "title": "iOS集成方式"
       },
+      "native/event/back": {
+        "title": "返回操作"
+      },
+      "native/promise/user": {
+        "title": "用户相关信息"
+      },
       "note/bridge": {
         "title": "桥接模型"
       },
@@ -38,6 +44,9 @@
       },
       "rn/start": {
         "title": "小应用集成指南"
+      },
+      "use": {
+        "title": "使用说明"
       }
     },
     "links": {
@@ -50,6 +59,9 @@
       "开始": "开始",
       "集成指南": "集成指南",
       "设计相关": "设计相关",
+      "指南": "指南",
+      "通知事件": "通知事件",
+      "回调事件": "回调事件",
       "First Category": "First Category"
     }
   },

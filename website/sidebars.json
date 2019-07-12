@@ -4,6 +4,11 @@
     "集成指南": ["android/start","ios/start","rn/start"],
     "设计相关": ["note/design","note/bridge"]
   },
+  "apis": {
+    "指南":["use"],
+    "通知事件": ["native/event/back"],
+    "回调事件": ["native/promise/user"]
+  },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
   }
