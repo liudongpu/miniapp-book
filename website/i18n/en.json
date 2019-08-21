@@ -8,21 +8,8 @@
       "android/start": {
         "title": "Android集成方式"
       },
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
-      },
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
-      },
-      "doc4": {
-        "title": "Other Document"
-      },
-      "doc5": {
-        "title": "Fifth Document"
+      "guide/event": {
+        "title": "跨页面通知"
       },
       "introduction": {
         "title": "项目说明"
@@ -38,6 +25,9 @@
       },
       "note/bridge": {
         "title": "桥接模型"
+      },
+      "note/debug": {
+        "title": "调试配置"
       },
       "note/design": {
         "title": "设计思想"
@@ -60,9 +50,9 @@
       "集成指南": "集成指南",
       "设计相关": "设计相关",
       "指南": "指南",
+      "常用操作": "常用操作",
       "通知事件": "通知事件",
-      "回调事件": "回调事件",
-      "First Category": "First Category"
+      "回调事件": "回调事件"
     }
   },
   "pages-strings": {
