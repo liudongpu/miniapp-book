@@ -6,7 +6,7 @@
   },
   "apis": {
     "指南":["use"],
-    "常用操作":["guide/event"],
+    "常用操作":["guide/event","guide/route"],
     "通知事件": ["native/event/back"],
     "回调事件": ["native/promise/user"]
   }

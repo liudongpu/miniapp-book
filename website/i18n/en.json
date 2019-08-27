@@ -9,7 +9,10 @@
         "title": "Android集成方式"
       },
       "guide/event": {
-        "title": "跨页面通知"
+        "title": "事件通知"
+      },
+      "guide/route": {
+        "title": "路由及跳转"
       },
       "introduction": {
         "title": "项目说明"
