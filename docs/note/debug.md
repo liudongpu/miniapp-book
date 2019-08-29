@@ -37,3 +37,15 @@ envName取值范围：
 ```oc
 [miniJump jumpUrl:@"debug-miniapp://http://10.4.143.141:8081/index.bundle?platform=ios" withView:self ];
 ```
+
+### 调试指定页面
+适用场景：如果一个子页面需要多次点击操作才能进入，可以调试时指定默认首页
+oc
+```oc
+[miniJump jumpUrl:@"debug-miniapp://?system_uec-init_router=url" withView:self ];
+```
+android
+```android
+MiniappSupport.getInstance().jumpUrl("debug-miniapp://?system_uec-init_router=url",miniappDelegate,getApplicationContext());
+```
+如果需要跳转带参数，参考编码系列
