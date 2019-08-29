@@ -29,3 +29,11 @@ envName取值范围：
 |preview|预生产环境|
 |release|正式环境|
 
+
+
+## 奇技淫巧
+### ios真机调试配置
+由于ios真机无法自动获取主机ip，调试时需指定主机ip请求
+```oc
+[miniJump jumpUrl:@"debug-miniapp://http://10.4.143.141:8081/index.bundle?platform=ios" withView:self ];
+```
